@@ -12,11 +12,11 @@
 - ⚡ 재미있는 사실: 커피 없이는 코드를 작성할 수 없습니다!
 
 ## 🛠 기술 스택
-- **언어**: JavaScript (ES6+), TypeScript
-- **프레임워크 및 라이브러리**: React.js, Next.js, Redux, Recoil, Axios, Zustand
-- **스타일링**: CSS, SCSS, Emotion
+- **언어**: JavaScript
+- **프레임워크 및 라이브러리**: javascript
+- **스타일링**: CSS
 - **툴**: Git, GitHub, Figma, Visual Studio Code
-- **기타**: Responsive Design, RESTful API, GraphQL
+- **기타**:
 
 ## 💻 언어 사용량 통계
 
@@ -27,10 +27,10 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=0r-su&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 연락하기
-- **이메일**: your.email@example.com
+- **이메일**: vldzm2238@naver.com
 - **LinkedIn**: [LinkedIn 프로필 링크]
-- **Twitter**: [@yourTwitter](https://twitter.com/yourTwitter)
-- **블로그**: [블로그 주소]
+- **Twitter**:
+- **블로그**:
 
 <!-- 이 섹션은 자신의 프로필을 더욱 개성 있게 만들기 위해 추가할 수 있습니다 -->
 ## 🔥 최근 프로젝트
